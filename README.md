@@ -22,3 +22,6 @@ que he tenido que hacer es a partir del anterior index.html he creado
 un segundo .css para adaptarlo al estilo de una pantalla de movil, solo
 he tenido que agrandar un poco los iconos de sonido, ajustes y play/pausa
 y minimizar la nave.
+
+Para indicar quien ha sido mi cliente y yo que soy el creador he añadido una imagen para crear un "ACERCA DE" 
+para dar esa informacion.
