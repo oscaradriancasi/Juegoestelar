@@ -12,7 +12,7 @@ El cliente me ha dado una serie de imagenes entre ellas la nave del juego,
 los iconos, el espacio y la luna. He creado dos .html uno para el diseño
 principal del juego y el otro lo he llamado ajustes.html copiando el mismo contenido pero modificandolo
 con un listado para el menu de ajustes asi aparecerá las instrucciones del jeugo
-cuenta con un .css para modificar todos los divs que he creado para cada imagen
+cuenta con un estilo.css para modificar todos los divs que he creado para cada imagen
 y ponerlo al gusto del cliente, las imagenes me han servido todas, lo unico
 que los iconos de los menus los he tenido que retocar con photoshop y quitarles
 el fondo blanco para que se adapte al fondo de la galaxia.
@@ -23,5 +23,5 @@ un segundo .css para adaptarlo al estilo de una pantalla de movil, solo
 he tenido que agrandar un poco los iconos de sonido, ajustes y play/pausa
 y minimizar la nave.
 
-Para indicar quien ha sido mi cliente y yo que soy el creador he añadido una imagen para crear un "ACERCA DE" 
-para dar esa informacion.
+He modificado el tamaño de las imagenes del cliente ya que pesaban mucho, cada version tiene su menu de ajustes,
+su acerca de, y su estilo de hoja para tenerlo mas organizado.
