@@ -47,6 +47,15 @@ body{
 	
 }
 
+.acercade{
+	
+	text-align: center;
+	margin:0 auto;
+	width:80%;
+	font-size:48px;
+	font-weight:bold;
+	background: rgba(255,255,255,0.7);
+}
 
 .menuopciones{
 	top:0px;
@@ -70,4 +79,8 @@ body{
 	widht:190px;
 	height:190px;
 	
+}
+.autor>a>img{
+	widht:190px;
+	height:190px;
 }

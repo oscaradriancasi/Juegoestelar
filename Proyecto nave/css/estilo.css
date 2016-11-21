@@ -59,6 +59,16 @@ body{
 	font-weight:bold;
 	background: rgba(255,255,255,0.7);
 }
+.acercade{
+	
+	text-align: center;
+	margin:0 auto;
+	width:80%;
+	font-size:48px;
+	font-weight:bold;
+	background: rgba(255,255,255,0.7);
+	
+}
 
 .menusonido>a>img{
 	widht:140px;
