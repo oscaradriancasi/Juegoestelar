@@ -37,36 +37,37 @@ body{
 .menufuel{
 	bottom:0px;
 	left:0px;
-	color:white;
-	width:15%;
+	color:black;
+	width:20%;
 	height:200px;
 	position:absolute;
 	font-size:42px;
 	font-weight:bold;
+	background:white;
+	
 }
 
 
 .menuopciones{
 	top:0px;
 	right:0px;
-
 	position:absolute;
 
 }
 
 
-.menusonido>img{
-	widht:180px;
-	height:180px;
+.menusonido>a>img{
+	widht:190px;
+	height:190px;
 }
 
-.menuajustes>img{
-	widht:180px;
-	height:180px;
+.menuajustes>a>img{
+	widht:190px;
+	height:190px;
 }
 
-.menupausa>img{
-	widht:180px;
-	height:180px;
+.menupausa>a>img{
+	widht:190px;
+	height:190px;
 	
 }

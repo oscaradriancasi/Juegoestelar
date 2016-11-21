@@ -40,49 +40,43 @@ body{
 	position:absolute;
 	font-size:28px;
 	font-weight:bold;
+	background:white;
 }
 
 
 .menuopciones{
 	top:0px;
 	right:0px;
-	widht:10%;
 	position:absolute;
-	height:100px;
+	
 }
 
 .instrucciones{
 	text-align: center;
 	margin:0 auto;
-
-	width:30%;
-	font-size:28px;
+	width:80%;
+	font-size:48px;
 	font-weight:bold;
 	background: rgba(255,255,255,0.7);
 }
 
-.menusonido>img{
-
-	widht:180px;
-	height:180px;
+.menusonido>a>img{
+	widht:140px;
+	height:140px;
 }
 
 
 
 
-.menupausa>img{
-	widht:180px;
-	height:180px;
+.menupausa>a>img{
+	widht:140px;
+	height:140px;
+	
 	
 }
 
-.menuajustes>img{
-	widht:500px;
-	height:500px;
+.menuajustes>a>img{
+	widht:140px;
+	height:140px;
 }
 
-.menupausa>img{
-	widht:180px;
-	height:180px;
-	
-}
